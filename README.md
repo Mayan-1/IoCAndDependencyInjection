@@ -1,4 +1,4 @@
-# Understanding IoC, DI, and DIP
+# Understanding IoC and DI
 
 ## What is Inversion Of Control?
 
